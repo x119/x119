@@ -1,3 +1,5 @@
+# Come visit us as https://v-spa.net #
+
 from ctypes import *
 from time import gmtime, strftime   
 import struct
